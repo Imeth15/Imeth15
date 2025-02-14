@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning godot
 - 💞️ I’m looking to collaborate on making games :D
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like beans
 
 <!---
